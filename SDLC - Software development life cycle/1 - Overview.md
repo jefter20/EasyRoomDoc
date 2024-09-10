@@ -98,3 +98,8 @@ Here is an overview of the entire software development lifecycle for a hotel boo
 - Integration with third-party services like maps (Google Maps) to display hotel locations.
 
 
+##### *Support material:*
+https://www.youtube.com/watch?v=vicXmQ5hUyY
+
+*[Reference](https://openai.com/chatgpt/)*
+
