@@ -1,6 +1,10 @@
+---
+
+---
+---
 
 Here is an overview of the entire software development lifecycle for a hotel booking platform using React for the front-end and C# for the back-end:
-### 1.1 - **Requirements Gathering**
+### 1 - **Requirements Gathering**
 
 - **Functional**:
     - Hotel, room, and category registration.
@@ -20,15 +24,15 @@ Here is an overview of the entire software development lifecycle for a hotel boo
     - Back-end: C# (.NET Core).
     - Database: SQL Server or another relational database.
     - Hosting: Azure or AWS.
-### 1.2 - **Agile methodology**
+### 2 - **Agile methodology**
 
 - Scrum, Kanban, etc.
 
-### 1.3 - **Timeline**
+### 3 - **Timeline**
 
 - Define schedule
 
-### 1.4 - **Architecture Design**
+### 4 - **Architecture Design**
 
 - **Front-end (React)**:
     - Creation of reusable components for hotel search, displaying details, login system, and reservations.
@@ -47,12 +51,12 @@ Here is an overview of the entire software development lifecycle for a hotel boo
 - Architecture:
 	- Define system architecture
 
-### 1.5 - **Prototyping**
+### 5 - **Prototyping**
 
 - Creation of wireframes and mockups for screen designs such as home page, search page, hotel details page, reservation process, and login area.
 - Tools like Figma or Adobe XD can be used for prototyping.
 
-### 1.6 - **Development**
+### 6 - **Development**
 
 - **Front-end**:
     - Development of React components, with dynamic pages for search results, room details, and reservation interface.
@@ -64,7 +68,7 @@ Here is an overview of the entire software development lifecycle for a hotel boo
     - Security setup with authentication and authorization for different user levels (customer vs. admin).
     - Unit tests for developed APIs.
 
-### 1.7 - **Testing**
+### 7 - **Testing**
 
 - **Unit Testing**:
     - Testing individual components (e.g., hotel search, date validation, login system).
@@ -76,7 +80,7 @@ Here is an overview of the entire software development lifecycle for a hotel boo
 - **Performance Testing**:
     - Evaluating the response time of searches and reservations under high load conditions.
 
-### 1.8 - **Deployment**
+### 8 - **Deployment**
 
 - **Back-end**:
     - Hosting the API on servers such as Azure App Services or AWS Elastic Beanstalk.
@@ -86,20 +90,29 @@ Here is an overview of the entire software development lifecycle for a hotel boo
 - **CI/CD Automation**:
     - Setting up CI/CD pipelines using tools like GitHub Actions, Azure Pipelines, or Jenkins to automate integration and continuous delivery.
 
-### 1.9 - **Maintenance and Updates**
+### 9 - **Maintenance and Updates**
 
 - Monitoring errors and logs to identify and fix system issues.
 - Regular updates for new features, performance improvements, and bug fixes.
 - Scaling infrastructure as the user base grows, adjusting servers and databases accordingly.
 
-### 1.10 - **Future Enhancements**
+### 10 - **Future Enhancements**
 
 - Adding features like room reviews, a rewards system for frequent users, and support for multiple currencies and languages.
 - Integration with third-party services like maps (Google Maps) to display hotel locations.
 
 
-##### *Support material:*
+#### *Support material:*
+
+Model website:
+https://www.hoteis.com/
+
+C# | React project:
 https://www.youtube.com/watch?v=vicXmQ5hUyY
 
-*[Reference](https://openai.com/chatgpt/)*
+How SCRUM works:
+https://www.youtube.com/watch?v=eNdqssYSpZk
+
+#### Reference:
+https://openai.com/chatgpt/
 
