@@ -1,7 +1,6 @@
 ---
 
 ---
----
 
 Here is an overview of the entire software development lifecycle for a hotel booking platform using React for the front-end and C# for the back-end:
 ### 1 - **Requirements Gathering**
