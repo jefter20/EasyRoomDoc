@@ -29,7 +29,7 @@ Ready, repository cloned successfully.
 
 See: https://m.youtube.com/watch?v=ofy5N6Ef8ks&t=1031s&pp=ygUPT2JzaWRpYW4gZ2l0aHVi
 
-After downloading and intalling obsidian, open it.
+After downloading and installing obsidian, open it.
 
 	**Obsidian**
 	2.1 Click on "Open folder as vault".
