@@ -1,14 +1,14 @@
 # RoomEaseDoc
 
-RoomEaseDoc is a repository that contains information about the planning and implementation of the RoomEase project. RoomEase connects thousands of hotels to people looking for accommodation, simply, quickly and at no cost.
+RoomEaseDoc is a repository that contains information about the planning and implementation of the RoomEase project. RoomEase connects thousands of hotels to people looking for accommodation, simply, quickly and no cost.
 
 ---
 
-### How to contribute to this document.
+## How to contribute to this document.
 
-#### Follow the steps:
+### Follow the steps:
 
-###### 1. **Clone the repository.** 
+#### 1. **Clone the repository.** 
 
 See: https://m.youtube.com/watch?v=4vFGNUsnZWQ
 
@@ -16,7 +16,7 @@ See: https://m.youtube.com/watch?v=4vFGNUsnZWQ
 	1.1 Inside the github repository, top right, click on the green button, named [code].
 	1.2 Then click on SSH.
 	1.3 And then copy the link.
-	
+
 Open the terminal. 
 
 	**TERMINAL**
@@ -25,7 +25,7 @@ Open the terminal.
 
 Ready, repository cloned successfully.
 
-###### 2. **Install** and configure obsidian.
+#### 2. **Install** and configure obsidian.
 
 See: https://m.youtube.com/watch?v=ofy5N6Ef8ks&t=1031s&pp=ygUPT2JzaWRpYW4gZ2l0aHVi
 
