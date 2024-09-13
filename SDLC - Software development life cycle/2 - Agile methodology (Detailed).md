@@ -72,3 +72,14 @@
 ### 12. **Adaptation and Evolution**
 
 - As the project progresses, the team and stakeholders can adjust the Agile process, customizing practices to better meet the specific needs of the project.
+
+
+#### **Support material**
+
+= 008 - Agilidade e DevOps um dia no desenvolvimento de software (Alura)
+
+= 009 - Agilidade e TDD um dia no desenvolvimento de software (Alura )
+
+==The content of the above courses is available for free on Telegran. Just click the link below.==
+
+https://t.me/+cbWUWdqmERVhOWI1
