@@ -1,4 +1,3 @@
-
 #### **1.1 Functional Requirements**
 
 These describe what the system should do, focusing on the features and functionalities that will be implemented. Here's a breakdown for a hotel reservation platform:

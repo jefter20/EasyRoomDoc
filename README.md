@@ -1,6 +1,6 @@
-# RoomEaseDoc
+# EasyRoomDoc
 
-RoomEaseDoc is a repository that contains information about the planning and implementation of the RoomEase project. RoomEase connects thousands of hotels to people looking for accommodation, simply, quickly and no cost.
+EasyRoomDoc is a repository that contains information about the planning and implementation of the EasyRoom project. EasyRoom connects thousands of hotels to people looking for accommodation, simply, quickly and no cost.
 
 ---
 
